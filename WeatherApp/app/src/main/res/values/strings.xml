@@ -1,0 +1,10 @@
+<resources>
+    <string userName="app_name">Fitness prediction app</string>
+    <string userName="title_activity_home_page">HomePage</string>
+    <string userName="navigation_drawer_open">Open navigation drawer</string>
+    <string userName="navigation_drawer_close">Close navigation drawer</string>
+    <string userName="nav_header_title">Android Studio</string>
+    <string userName="nav_header_subtitle">android.studio@android.com</string>
+    <string userName="nav_header_desc">Navigation header</string>
+    <string userName="action_settings">Settings</string>
+</resources>
